@@ -2,6 +2,8 @@
 
 # Introduction to Machine Learning with Python
 
+内容为《Python机器学习基础教程》示例代码，主要学习了Python机器学习库scikit-learn。
+
 This repository holds the code for the forthcoming book "Introduction to Machine
 Learning with Python" by [Andreas Mueller](http://amueller.io) and [Sarah Guido](https://twitter.com/sarah_guido).
 You can find details about the book on the [O'Reilly website](http://shop.oreilly.com/product/0636920030515.do).
